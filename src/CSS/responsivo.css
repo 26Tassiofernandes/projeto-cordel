@@ -12,9 +12,9 @@
         font-size: 16px;
     }
 
-    section.secao-imagem {
+    /* section.secao-imagem {
         height: 300px;
-    }
+    } */
 
     section#fundo-xilogravura {
         object-fit: cover;
