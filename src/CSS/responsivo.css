@@ -16,7 +16,7 @@
         height: 300px;
     } */
 
-    section#fundo-xilogravura {
+    section#fundo-xilogravura, section#imagem-fundo-nordeste {
         object-fit: cover;
     }
 
