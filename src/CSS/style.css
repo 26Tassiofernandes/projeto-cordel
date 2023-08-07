@@ -78,7 +78,7 @@ section.secao-imagem {
     background-color: rgb(179, 85, 85);
     color: white;
     text-shadow: 0px 1px 2px black;
-    height: 400px;
+    /* height: 400px; */
     object-fit: cover;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.5);
     background-size: cover;
