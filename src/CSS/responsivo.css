@@ -1,0 +1,32 @@
+@media (max-width: 600px) {
+    header > h1 {
+        font-size: 45px;
+    }
+
+    header > p {
+        font-size: 14px;
+    }
+
+    section {
+        padding: 25px;
+        font-size: 16px;
+    }
+
+    section.secao-imagem {
+        height: 300px;
+    }
+
+    section#fundo-xilogravura {
+        object-fit: cover;
+    }
+
+    section.secao-imagem > p {
+        width: 230px;
+        padding: 7px;
+    }
+
+    footer > p {
+        font-size: 14px;
+    }
+
+}
