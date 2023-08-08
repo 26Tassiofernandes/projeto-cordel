@@ -61,7 +61,7 @@ section {
     padding-left: 30px;
     font-family: var(--fonte02);
     font-size: 22px;
-    
+ 
 }
 
 section > p {
@@ -100,7 +100,6 @@ section.secao-imagem > p {
     width: 320px;
     background-color: rgba(0, 0, 0, 0.384);
     padding: 7px;
-    margin-top: 50px;
     
 }
 
