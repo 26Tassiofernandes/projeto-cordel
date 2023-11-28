@@ -7,7 +7,7 @@
 
 ### Link do projeto 🔗 
 
-<a href="https://26tassiofernandes.github.io/Contador/contador.html" rel="external">Projeto Cordel</a>
+<a href="https://26tassiofernandes.github.io/projeto-cordel/" rel="external">Projeto Cordel</a>
 
 <img src="" alt="imagem-projeto">
 
