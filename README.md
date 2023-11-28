@@ -7,7 +7,7 @@
 
 ### Link do projeto 🔗 
 
-<a href="https://26tassiofernandes.github.io/Contador/contador.html" rel="external">Contador</a>
+<a href="https://26tassiofernandes.github.io/Contador/contador.html" rel="external">Projeto Cordel</a>
 
 <img src="" alt="imagem-projeto">
 
@@ -17,7 +17,7 @@
 
 ### 📜 Descrição
 
-Um contador básico que com base em condições exibe números positivos e negativos com cores
+Projeto em cordel explorando o efeito parallax que remete a canção "A vida do Viajante" de Luiz Gonzaga.
 
 ##
 
@@ -36,7 +36,7 @@ Um contador básico que com base em condições exibe números positivos e negat
 
 ### ⚒️ Como rodar?
 
-O usuário apenas precisa acessar o link disponiblizado nessa página e abrir no navegador do seu agrado. Após isso, terá acesso ao projeto em questão.
+O usuário apenas precisa acessar o link disponibilizado nessa página e abrir no navegador do seu agrado. Após isso, terá acesso ao projeto em questão.
 
 ##
 
