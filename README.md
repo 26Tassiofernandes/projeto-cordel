@@ -9,7 +9,7 @@
 
 <a href="https://26tassiofernandes.github.io/projeto-cordel/" rel="external">Projeto Cordel</a>
 
-<img src="" alt="imagem-projeto">
+<img src="https://github.com/26Tassiofernandes/projeto-cordel/assets/86972667/ed62039c-e11a-427e-84ea-73a00eb57872" alt="imagem-projeto">
 
 </div>
 
